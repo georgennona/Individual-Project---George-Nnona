@@ -109,7 +109,7 @@ python evaluate.py
 
 - **Tap Python SDK** — [TapWithUs/tap-python-sdk](https://github.com/TapWithUs/tap-python-sdk), used for TapXR Bluetooth integration in `tap_test.py`
 - **Hand UI asset** — PNG hand image sourced from [CleanPNG](https://www.cleanpng.com/png-scalable-vector-graphics-computer-icons-encapsulat-7233344/download-png.html), used in the Unity evaluation and data collection interfaces
-- **AI assistance** — Claude Sonnet 4.6 (Anthropic, https://claude.ai) was used as an assistive tool to support code development and dissertation writing. All work submitted remains the original work of the author.
+- **AI assistance** — Claude Sonnet 4.6 (Anthropic, https://claude.ai) was used as an assistive tool to support code development and dissertation writing. I acknowledge that this work is my own.
 
 ---
 
